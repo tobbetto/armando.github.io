@@ -37,7 +37,7 @@ collections:
 defaults:
     -
         scope:
-            path: ''
+            path: '/armando.github.io/'
             type: 'documentation'
         values:
             layout: 'documentation-single'
