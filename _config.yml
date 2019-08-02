@@ -11,7 +11,7 @@ dox:
             image:
         nav:
             - item_name: Homepage
-              item_url: /
+              item_url: /armando.github.io
             - item_name: Default Layout
               item_url: /default
         cta:
