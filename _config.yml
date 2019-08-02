@@ -52,4 +52,4 @@ includes_dir: ./dox-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md' ]
 permalink: /:title/
 
-theme: jekyll-theme-dinky
+theme: jekyll-theme-modernist
