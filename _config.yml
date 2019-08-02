@@ -51,3 +51,5 @@ layouts_dir: ./dox-theme/_layouts
 includes_dir: ./dox-theme/_includes
 exclude: [ 'README.md', 'CHANGELOG.md' ]
 permalink: /:title/
+
+theme: jekyll-theme-cayman
