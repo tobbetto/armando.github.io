@@ -1,8 +1,4 @@
-\========
-
-Producto
-
-\========
+title: Producto
 
 ![](./media/image1.png)
 
